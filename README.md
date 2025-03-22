@@ -7,13 +7,15 @@ This is a **Node.js blog application** that uses **Express.js** for the backend 
 - Create, edit, and delete blog posts
 - Display all blog posts on the homepage
 - Individual blog post pages
-- User authentication using jwt(json web token)
+- User authentication using JWT (JSON Web Token)
+- Password hashing with bcrypt for secure storage
 - Responsive UI with EJS templates
 
 ## 🛠 Tech Stack
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose)
 - **Frontend:** EJS, Bootstrap/CSS
-- **Authentication:** Passport.js (if implemented)
+- **Authentication:** JWT (JSON Web Token)
+- **Password Hashing:** bcrypt
 - **Database:** MongoDB (Mongoose ORM)
 
 ## 📂 Project Structure
