@@ -7,7 +7,7 @@ This is a **Node.js blog application** that uses **Express.js** for the backend 
 - Create, edit, and delete blog posts
 - Display all blog posts on the homepage
 - Individual blog post pages
-- User authentication (optional)
+- User authentication using jwt(json web token)
 - Responsive UI with EJS templates
 
 ## 🛠 Tech Stack
@@ -33,7 +33,7 @@ blog-project/
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/blog-project.git
+git clone https://github.com/Aryan9543/blogApp.git
 cd blog-project
 ```
 ### 2️⃣ Install dependencies
